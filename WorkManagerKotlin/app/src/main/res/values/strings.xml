@@ -1,0 +1,14 @@
+<resources>
+	<string name="app_name">WorkManagerKotlin</string>
+	<string name="bt_start_passdata">データ渡し</string>
+	<string name="bt_start_retry">リトライ</string>
+	<string name="bt_start_uniquework_keep">単一ワーク</string>
+	<string name="bt_start_uniquework_replace">置換ワーク</string>
+	<string name="bt_start_uniquework_append">追加ワーク</string>
+	<string name="bt_start_work_start">ワーク開始</string>
+	<string name="bt_start_work_enqueued">ワーク待機中…</string>
+	<string name="bt_start_work_running">ワーク実行中…</string>
+	<string name="bt_start_work_finished">ワーク終了</string>
+	<string name="bt_start_work_cancel">ワークキャンセル</string>
+	<string name="bt_start_work_canceled">キャンセルされました</string>
+</resources>
